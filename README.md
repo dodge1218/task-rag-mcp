@@ -2,6 +2,10 @@
 
 **ContextClaw L2:** Just-in-time contextual memory and SOP retrieval for AI agents.
 
+
+> **Part of the Token-Optimized Agentic Architecture.**
+> Task-RAG is Layer 2 (Zero-Token Idle). See also: [ContextClaw (Layer 1)](https://github.com/dodge1218/contextclaw) | [Architecture Manifesto](https://github.com/dodge1218/agentic-efficiency)
+
 ## Overview
 
 AI agents waste massive amounts of tokens (and money) reading the same long system prompts, SOPs, and "skills" directories over and over again on every turn. As agents become more capable, their "rules" bloat the context window.
